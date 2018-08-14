@@ -1,24 +1,10 @@
-# README
+<h1>first design app</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Voici mon lien vers le site en prod : https://design-app-rennes.herokuapp.com/
 
-Things you may want to cover:
+Voici un premier exercice en css + html sur une app rails
+(avec une petite touche yellow fancy)
 
-* Ruby version
+Le bisou ;)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Made with love by : Sandrine Le Breton
