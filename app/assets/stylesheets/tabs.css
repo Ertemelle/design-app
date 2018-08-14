@@ -1,0 +1,9 @@
+.tabs{
+	display: flex;
+	justify-content: space-between;
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: center;
+}
