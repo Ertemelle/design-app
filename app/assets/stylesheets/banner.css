@@ -1,0 +1,31 @@
+.banner img{
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+
+.banner{
+	background-image: rgba(255, 195, 0, 0.7);
+}
+
+.text-center{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 70px;
+	text-align: center;
+	color: #FFC300;
+	text-shadow: 1px 1px #000, 2px 2px #000, 3px 3px #000, 4px 4px #000, 5px 5px #000, 6px 6px #000, 7px 7px #000, 8px 8px #000;
+}
+
+.join{
+	position: absolute;
+	top: 140%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: 'Archivo Black', sans-serif;
+	color: #ffff;
+	text-align: center;
+}

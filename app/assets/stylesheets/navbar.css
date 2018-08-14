@@ -1,0 +1,35 @@
+.navbar{
+	overflow: hidden;
+	float: top;
+	font-family: 'Archivo Black', sans-serif;
+	background-color: black;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	width: 100%;
+}
+
+
+.navbar h1{
+	font-weight: bold;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	color: #ffff;
+	font-size: 60px;
+}
+.text-shadow-pop-right{
+text-shadow: 1px 1px #FFC300, 2px 2px #FFC300, 3px 3px #FFC300, 4px 4px #FFC300, 5px 5px #FFC300, 6px 6px #FFC300, 7px 7px #FFC300, 8px 8px #FFC300;
+}
+.navbar a{
+	text-align: left;
+	color: #ffff;
+    padding: 14px 16px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.container-header{
+	display: flex;
+	justify-content: space-between;
+}
